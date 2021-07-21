@@ -9,9 +9,6 @@ Supervised learning algorithm
 
 y is constant and x value is dependent on slope m 
 here x value can be anything but y value is constant
-
-
-
 *Finding the column with highest correlation
 *storing the columns in a dataframe
 *applying linear regression model 
